@@ -1,0 +1,102 @@
+project:
+  type: website
+  output-dir: _site
+  preview:
+    port: 4200
+    browser: false
+
+website:
+  title: "Terminus"
+  description: "An adaptive science fiction universe that evolves with real-world space developments"
+  site-url: https://terminus-universe.com
+  repo-url: https://github.com/HariSeldon23/terminus
+  repo-actions: [edit, issue]
+  
+  page-navigation: true
+  
+  sidebar:
+    style: "floating"
+    search: true
+    tools:
+      - icon: github
+        href: https://github.com/HariSeldon23/terminus
+    contents:
+      - section: "Universe Overview"
+        contents:
+          - href: index.qmd
+            text: "Home"
+          - href: about/timeline-structure.qmd
+            text: "Understanding Timeline Branches"
+          - href: about/reading-guide.qmd
+            text: "How to Read Terminus"
+          
+      - section: "Core Universe"
+        contents:
+          - href: core/anchor-points.qmd
+            text: "Anchor Points Index"
+          - href: core/societies.qmd
+            text: "The Major Societies"
+          - href: core/technology/helium3.qmd
+            text: "Helium-3 Technology"
+          - href: core/locations/moon-base.qmd
+            text: "Lunar Operations Base"
+            
+      - section: "Timeline Branches"
+        contents:
+          - href: branches/index.qmd
+            text: "Current Branches"
+          - section: "Primary Timeline"
+            contents:
+              - href: branches/main/2045.qmd
+                text: "2045: First Divergence"
+          - section: "Active Branches"
+            contents:
+              - href: branches/artemis/success.qmd
+                text: "Artemis Success"
+              - href: branches/artemis/failure.qmd
+                text: "Artemis Failure"
+                
+      - section: "Characters"
+        contents:
+          - href: characters/index.qmd
+            text: "Character Directory"
+          - href: characters/ascendant/index.qmd
+            text: "Ascendant Characters"
+          - href: characters/grounded/index.qmd
+            text: "Grounded Characters"
+      
+      - section: "Stories"
+        contents:
+          - href: stories/first.qmd
+            text: "Into the Void"
+
+  page-footer:
+    left: "Copyright 2025 Terminus Universe"
+    right:
+      - icon: github
+        href: https://github.com/yourusername/terminus
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    mainfont: "Source Sans Pro"
+    monofont: "Fira Code"
+    code-copy: true
+    code-overflow: wrap
+    toc: true
+    toc-location: right
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
+    
+metadata-files:
+  - _variables.yml
+  - _metadata.yml
+
+execute:
+  freeze: auto
+
+bibliography: references.bib

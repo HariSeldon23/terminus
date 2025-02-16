@@ -1,0 +1,91 @@
+---
+title: "How to Read Terminus"
+description: "A guide to navigating our adaptive science fiction universe"
+author: "Terminus Project"
+date: last-modified
+---
+
+# How to Read Terminus
+
+Welcome to Terminus, a science fiction universe that evolves alongside real-world space developments. This guide will help you navigate our unique narrative structure and get the most out of your reading experience.
+
+## Understanding Our Approach
+
+Terminus is different from traditional science fiction. Instead of presenting a single, fixed vision of the future, we create a living narrative that responds to real-world events. As humanity's actual journey into space unfolds, our story grows new branches, exploring different possible futures based on present-day decisions.
+
+Think of reading Terminus as exploring a vast tree of possibilities. Each branch represents a different potential future, shaped by real events in our space exploration journey. These branches don't replace each other – they exist in parallel, offering different perspectives on humanity's possible paths to the stars.
+
+## Getting Started
+
+If you're new to Terminus, we recommend beginning with our core universe elements. These foundational pieces remain consistent across all timeline branches and will help you understand the basic framework of our world:
+
+1. Start with "The Major Societies" to understand the fundamental split between the Ascendant and Grounded philosophies.
+
+2. Read about the Lunar Operations Base to grasp how humanity's first permanent space settlement shapes our future.
+
+3. Explore the basics of Helium-3 technology to understand the resources and power dynamics driving our expansion into space.
+
+Once you're familiar with these foundations, you can begin exploring different timeline branches.
+
+## Reading Strategies
+
+There are several ways to experience Terminus, each offering unique insights:
+
+### Following a Single Branch
+
+If you prefer a traditional reading experience, you can follow a single timeline branch from beginning to end. Each branch offers a complete story exploring one possible future. Start with our current "main branch" and read it as you would any other science fiction story.
+
+When you encounter a temporal waypoint – a marker indicating where real-world events have created new story possibilities – you can either continue along your current branch or explore the alternatives. Think of it like choosing which path to take at a fork in the road.
+
+### Comparative Reading
+
+For readers interested in how different events might shape our future, try reading parallel branches side by side. This approach reveals how various real-world developments could lead to dramatically different outcomes. You might compare, for example, how the success or failure of the Artemis program changes humanity's path to the stars.
+
+### Historical Exploration
+
+Some readers enjoy examining how our vision of the future has evolved over time. By comparing branches created in different years, you can see how real-world events have shaped our expectations and hopes for space exploration.
+
+## Understanding Timeline Markers
+
+As you read, you'll encounter several types of markers that help you navigate the narrative:
+
+Anchor Points: These are major events that remain consistent across all branches. They serve as stable reference points in our expanding story universe.
+
+Temporal Waypoints: These markers indicate where real-world events have created new narrative branches. Each waypoint includes:
+- The date of the divergence
+- The real-world event that sparked it
+- A brief explanation of its significance
+
+Branch Identifiers: Each timeline branch has a unique identifier that helps you track where you are in the story tree.
+
+## Character Arcs Across Branches
+
+You'll encounter the same characters in different timeline branches, but their experiences and fates may vary dramatically. This isn't inconsistency – it's a feature of our adaptive storytelling approach. By seeing how the same people react to different circumstances, we gain deeper insights into both human nature and the forces shaping our future.
+
+## The Role of Real-World Events
+
+Terminus maintains a unique relationship with reality. When major space-related events occur in our world, they may create new story branches. These branches explore the potential long-term consequences of these developments, helping readers understand the implications of present-day choices.
+
+## Staying Updated
+
+As new real-world events create new narrative branches, we'll add them to our story tree. You can:
+
+1. Follow our updates through the branch directory
+2. Subscribe to our newsletter for notifications about new branches
+3. Join our community discussions about how real events might shape future narratives
+
+## Contributing to the Discussion
+
+While the core narrative of Terminus responds to real-world events, we encourage readers to engage with the story through:
+
+1. Participating in discussions about potential implications of current events
+2. Sharing insights about different timeline branches
+3. Exploring the relationships between various narrative paths
+
+## Remember
+
+There is no "wrong" way to read Terminus. Whether you prefer to follow a single timeline, explore parallel futures, or examine how our vision of space exploration evolves, each approach offers valuable insights into humanity's greatest adventure.
+
+The goal isn't to predict the future, but to understand how our present choices shape the paths available to us. As you explore these branching timelines, you're not just reading different versions of a story – you're witnessing how our collective vision of the future evolves as reality unfolds.
+
+*Next Steps: Visit our [Branch Directory](branches/index.qmd) to start exploring specific timeline branches, or return to [Understanding Timeline Branches](about/timeline-structure.qmd) for a deeper look at how our narrative structure works.*

@@ -1,0 +1,119 @@
+# Adaptive Storytelling in Terminus
+
+## Introduction to Timeline Branches
+
+Terminus introduces a revolutionary approach to science fiction storytelling that responds to real-world developments while maintaining narrative integrity. Rather than constantly rewriting the story, Terminus employs a branching timeline structure where major real-world events create new narrative pathways, each exploring different possible futures.
+
+Think of Terminus as a living tree. The trunk represents our core narrative foundations - the essential elements that remain constant across all versions. The branches represent different timeline paths created by significant real-world events. Each branch grows in a unique direction while remaining connected to the same roots.
+
+## Anchor Points and Temporal Waypoints
+
+### Anchor Points
+These are foundational moments in the story that remain consistent across all timeline branches. They serve as stable narrative platforms from which new branches can emerge. Anchor points typically include:
+
+- The establishment of the first permanent lunar settlements
+- The discovery of efficient helium-3 mining techniques
+- The fundamental split between Ascendant and Grounded philosophies
+- Key origin stories for major characters
+- The development of neural modification technology
+
+When a significant real-world event occurs, the story branches from the most recent anchor point, allowing the narrative to adapt while preserving its foundational elements.
+
+### Temporal Waypoints
+Each branch of the story begins with a temporal waypoint - a clear marker indicating which real-world events shaped this particular narrative path. These waypoints help readers understand the context and causality of events within each branch.
+
+For example:
+"This branch diverges from Anchor Point 2045.3 following the establishment of the first Chinese permanent lunar base on March 15, 2026."
+
+## Branch Development
+
+When a major real-world event necessitates a new story branch, the process follows these principles:
+
+1. Identification of Impact
+First, we analyze how the real-world event would affect our future timeline. This includes:
+- Direct effects on space development
+- Changes to international relations
+- Technological implications
+- Social and cultural impacts
+
+2. Branch Creation
+A new narrative branch emerges from the most recent relevant anchor point. This branch:
+- Clearly marks its divergence point
+- Explains the real-world event that spawned it
+- Maintains consistency with previous events up to the branch point
+
+3. Character Evolution
+Characters may face different fates in different branches, but their core personalities and histories up to the branch point remain consistent. This allows us to explore how the same people might react to different circumstances while maintaining character integrity.
+
+## Reading the Branches
+
+Readers can approach Terminus in several ways:
+
+### Linear Reading
+Following a single branch from beginning to end provides a coherent narrative exploring one possible future. Each branch offers a complete story experience.
+
+### Comparative Reading
+Readers can compare different branches to understand how various real-world events might lead to different futures. This creates a meta-narrative about humanity's choices and their long-term implications.
+
+### Historical Analysis
+The collection of branches serves as a record of how our vision of the future has evolved in response to real events, creating a unique historical document of human hopes and fears about space exploration.
+
+## Documentation and Organization
+
+Each story branch is clearly documented with:
+
+1. Branch Identifier
+A unique code indicating its position in the timeline tree.
+
+2. Divergence Point
+The specific anchor point from which it emerges.
+
+3. Catalyst Event
+The real-world development that created this branch.
+
+4. Timeline Markers
+Clear indicators of when this version was created and what future it envisions.
+
+## Maintaining Narrative Cohesion
+
+To ensure that the branching structure enhances rather than fragments the story:
+
+1. Core Themes
+Fundamental themes remain consistent across all branches, though they may be explored in different ways.
+
+2. Character Consistency
+Character personalities and histories remain stable up to branch points, ensuring that different versions feel like authentic explorations of how the same people might react to different circumstances.
+
+3. World Rules
+The basic rules of the universe (physics, technology limitations, etc.) remain consistent unless specifically altered by real-world discoveries.
+
+## Meta-Narrative Elements
+
+The branching structure creates additional layers of meaning:
+
+1. Future Reflection
+Each branch reflects how we imagined the future at a particular moment in history.
+
+2. Choice Implications
+Comparing branches helps readers understand the long-term implications of present-day choices.
+
+3. Historical Documentation
+The collection of branches creates a record of how our vision of space exploration has evolved over time.
+
+## Practical Implementation
+
+The wiki structure maintains this branching narrative through:
+
+1. Clear Navigation
+- Branch identifiers in page titles
+- Timeline markers in metadata
+- Visual branch maps
+- Cross-reference systems
+
+2. Version Control
+- Documentation of branch points
+- Preservation of all versions
+- Clear change logs
+- Branch comparison tools
+
+This adaptive storytelling approach allows Terminus to remain responsive to real-world developments while maintaining narrative integrity and creating a unique form of social commentary about humanity's journey into space.

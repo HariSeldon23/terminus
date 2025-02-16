@@ -1,0 +1,83 @@
+---
+title: "Welcome to Terminus"
+description: "An adaptive science fiction universe that evolves with real space developments"
+author: "Terminus Project"
+date: last-modified
+---
+
+# Welcome to Terminus
+
+In Roman mythology, Terminus was the god of boundaries and limits. As humanity reaches for the stars, we constantly encounter our own boundaries - technological, biological, and philosophical. But unlike the ancient Romans, who saw these boundaries as fixed and sacred, we now face the challenge of transcending them. This is where our story begins.
+
+## About Terminus
+
+Terminus is a new kind of science fiction universe - one that evolves alongside humanity's actual journey into space. As real-world events unfold - successful launches, failed missions, international collaborations, or political tensions - our narrative adapts, exploring how these developments might shape our future among the stars.
+
+When you read Terminus, you're not just exploring one possible future. You're witnessing how our vision of tomorrow changes as today's events reshape our path to the stars. Each major development in space exploration creates new branches in our narrative, allowing us to explore different possible futures while maintaining the integrity of each timeline.
+
+## The Critical Juncture
+
+Our story branches at a crucial moment in human space exploration: NASA's Artemis III mission. This attempted return to the lunar surface represents more than just a single mission - it embodies the struggle between different approaches to space exploration. The mission's outcome, combined with evolving international partnerships and private sector involvement, creates complex ripples through humanity's space endeavors.
+
+The success or failure of Artemis III shapes not just technical achievements, but the fundamental nature of international space cooperation and competition. India's successful Chandrayaan-3 landing has already provided crucial data about the lunar south pole, while China and Russia's International Lunar Research Station (ILRS) partnership offers an alternative to NASA's Artemis program. These developments create intricate webs of cooperation and rivalry that shape our possible futures.
+
+## Timeline Branches
+
+### The Success Path
+If Artemis III succeeds, it strengthens NASA's position but potentially accelerates space development along competitive lines. Rather than fostering universal cooperation, success would likely reinforce the emerging division between two space blocs:
+
+The NASA-led coalition, bound by the Artemis Accords, emphasizes commercial partnerships and western-aligned space development. Meanwhile, the China-Russia partnership accelerates their own lunar plans, unwilling to cede strategic advantages in the race for south polar resources.
+
+India's position becomes particularly crucial, potentially serving as a technological bridge between these competing blocs. Their proven lunar landing capabilities and strategic relationships with both sides create opportunities for both cooperation and competition.
+
+### The Failure Path
+An Artemis III failure would reshape the landscape dramatically. China's methodical, robotic-first approach would gain credibility, while private companies like SpaceX face complex legal and regulatory challenges about human spaceflight safety. The relationship between commercial space enterprises and government agencies would require fundamental reconsideration.
+
+This path could see China's step-by-step lunar program emerge as the new standard for space exploration, while American efforts split between government robotic missions and ambitious but legally complicated private ventures. India's successful polar landing experience becomes even more valuable in this scenario.
+
+## The Stakes
+
+The competition for lunar south pole positioning has already begun. Permanently shadowed craters containing water ice and peaks with near-constant sunlight make this region crucial for any permanent lunar presence. The Artemis Accords attempt to establish frameworks for resource usage, but remain unsigned by key players like China and Russia.
+
+Meanwhile, private companies push the boundaries of current space law. Their relationship with government agencies grows more complex, especially as figures like Elon Musk maintain close ties with political leadership while pursuing independent space ventures. These dynamics raise crucial questions about the future of space exploration:
+
+Who has the right to extract lunar resources? How do we balance national interests with private enterprise in space? Can existing space law adapt to the reality of permanent lunar settlement? The answers shape not just lunar development, but humanity's entire future among the stars.
+
+## How to Read Terminus
+
+Our branching narrative structure allows you to explore how different factors combine to create possible futures. You can follow:
+
+Single timeline branches to see how specific events might shape future developments.
+
+Parallel scenarios to understand how different approaches to lunar exploration affect Earth-based politics and economics.
+
+Legal and political developments that influence the relationship between national space programs and private enterprise.
+
+## Latest Developments
+
+[Artemis Success Branch](branches/artemis/success.qmd)  
+Exploring how mission success reshapes international space competition and cooperation.
+
+[Commercial Development Branch](branches/commercial/development.qmd)  
+Following private industry's expanding role in space exploration amid evolving regulatory frameworks.
+
+## Start Exploring
+
+Begin your journey through Terminus:
+
+[Understanding Timeline Branches](about/timeline-structure.qmd)  
+Learn how technical achievements, international relations, and legal frameworks interact to create different possible futures.
+
+[Current Space Development](core/current.qmd)  
+Explore the real-world space developments that shape our branching timelines.
+
+[Anchor Points](core/anchor-points.qmd)  
+Discover the foundational elements that remain consistent across all timeline branches.
+
+## Join the Discussion
+
+Terminus isn't just a story - it's a lens for understanding how today's choices shape tomorrow's realities. As real events unfold and new branches emerge, we invite you to explore these possible futures and consider what they reveal about our present moment.
+
+How do current developments in space exploration, international relations, and space law change your vision of humanity's future among the stars? Which timeline branch resonates most with your hopes or fears for our species? The discussion is ongoing, and your perspective matters.
+
+*Where will humanity's journey to the stars lead? The answer lies not just in our technology or resources, but in the complex interplay of national ambition, private enterprise, and international law. Welcome to Terminus - where the future is always in motion.*

@@ -1,0 +1,68 @@
+---
+title: "Understanding Timeline Branches"
+description: "How Terminus adapts to real-world space developments"
+author: "Terminus Project"
+date: last-modified
+---
+
+# Understanding Timeline Branches in Terminus
+
+Imagine standing at the base of an ancient tree. Its trunk rises strong and steady, but as you look up, you see branches spreading in different directions, each reaching toward its own patch of sky. This is how Terminus works - a storytelling tree where real-world events create new branches of possibility, each exploring a different future for humanity's journey to the stars.
+
+## How the Branching Structure Works
+
+Terminus is not a single, fixed story that gets rewritten when the world changes. Instead, it's a living narrative that grows new branches when significant real-world events reshape our potential futures. Think of how historians understand different eras, each marked by crucial events that changed the course of history. Terminus works the same way, but looking forward instead of backward.
+
+### The Story Tree
+
+Our narrative structure has three main components:
+
+The Trunk (Anchor Points): These are the foundational elements of our universe that remain consistent across all versions. They include the basic split between Ascendant and Grounded societies, the principles of helium-3 fusion technology, and the core aspects of neural modification. Think of these as the roots and trunk of our story tree - solid and unchanging.
+
+The Branches (Timeline Branches): When major real-world events occur - like a successful Mars landing or a new space treaty - they create new branches in our narrative. Each branch explores how that event might shape humanity's future in space. These branches don't replace each other; they exist in parallel, showing different possible futures.
+
+The Leaves (Story Elements): These are the specific events, character arcs, and developments within each branch. While the same characters might appear in different branches, their experiences and fates can vary dramatically based on the real-world events that shaped that particular timeline.
+
+### Reading Across Branches
+
+You can experience Terminus in several ways:
+
+Linear Reading: Follow a single branch from beginning to end to explore one possible future. Each branch offers a complete story experience, showing how specific real-world events might shape humanity's journey to the stars.
+
+Comparative Reading: Read parallel branches to understand how different real-world developments could lead to vastly different futures. For example, you might compare how humanity's expansion into space differs in a timeline where the Artemis missions succeeded versus one where they failed.
+
+Historical Analysis: Examine how our vision of the future has evolved over time by comparing branches created in different years. This offers unique insights into how real-world events shape our expectations and hopes for space exploration.
+
+## Example: How Branches Form
+
+Let's look at a concrete example of how this works. Say we have a character, Dr. Wei Chen, a brilliant researcher working on neural modifications at the lunar base. In our core timeline (the trunk), she's developing breakthrough technologies for adapting humans to space.
+
+Then a major real-world event occurs - perhaps significant changes in international space cooperation. This creates a new branch in our narrative:
+
+In Branch A (Cooperation Timeline): Dr. Chen's work flourishes through international collaboration, leading to rapid advances in human space adaptation.
+
+In Branch B (Isolation Timeline): She faces new challenges as political tensions restrict scientific cooperation, forcing her to find innovative ways to continue her research.
+
+Both versions of Dr. Chen are equally "real" within their branches. Rather than rewriting her story, we explore how the same person might react to different circumstances, adding depth to our understanding of both the character and the forces shaping our future in space.
+
+## Navigating the Branches
+
+Every branch in Terminus is clearly marked with:
+
+A Branch Identifier: A unique code showing its position in the timeline tree.
+
+A Divergence Point: The specific real-world event that created this branch.
+
+Timeline Markers: Clear indicators of when this version was created and what future it explores.
+
+These markers help you understand exactly where you are in the story tree and how this particular future relates to others.
+
+## The Living Nature of Terminus
+
+As you explore these branches, you're not just reading different versions of a story - you're witnessing how our vision of the future evolves as reality unfolds. Each branch preserves a moment in our collective imagination, showing how we once thought the future might unfold.
+
+This makes Terminus more than just a story - it's a living document of humanity's hopes, fears, and dreams about our future in space. As new events shape our world, new branches will grow, each offering fresh insights into where we might be heading.
+
+We invite you to explore these possible futures, to see how present choices might shape the paths ahead, and to understand your own role in humanity's greatest adventure.
+
+*Next: Visit our [Branch Directory](branches/index.qmd) to start exploring specific timeline branches, or return to our [Core Universe](core/anchor-points.qmd) to understand the foundations that remain constant across all branches.*

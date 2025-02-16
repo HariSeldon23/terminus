@@ -1,0 +1,94 @@
+# Lunar Operations Base (LOB)
+
+## Overview
+The Lunar Operations Base, commonly known as LOB, serves as the Ascendant's primary installation for helium-3 mining and human enhancement operations. Established in 2035 as a private mining facility, it evolved into humanity's first self-sustaining space colony and the birthplace of Project Legacy.
+
+## Physical Structure
+The base extends both above and below the lunar surface, utilizing natural lava tubes and excavated caverns to protect against radiation and micrometeorites. The structural design prioritizes efficiency over traditional human comfort, reflecting the Ascendant's philosophy of adaptation to space environments.
+
+### Key Facilities
+The base contains several integrated sections:
+
+#### Mining Operations Center
+The heart of helium-3 extraction, featuring:
+- Advanced harvester swarm control rooms
+- Regolith processing facilities
+- Automated maintenance bays
+- Neural interface stations for enhanced operators
+- Real-time monitoring of lunar surface conditions
+
+#### Medical Wing
+Home to Project Legacy's primary facilities:
+- Neural modification laboratories
+- Adaptation monitoring chambers
+- Treatment bays for space-born children
+- Genetic engineering facilities
+- Long-term developmental observation units
+
+#### Life Support Systems
+Managed through a complex network of:
+- Oxygen regeneration systems
+- Water reclamation units
+- Agricultural domes
+- Atmospheric pressure regulation
+- Emergency backup systems with redundant failsafes
+
+#### Educational Facilities
+Specialized training areas for space-adapted children:
+- Zero-gravity adaptation chambers
+- Tactical processing centers
+- Neural interface training rooms
+- Void exposure simulation units
+- Enhanced cognitive development pods
+
+## Social Structure
+The base operates under a strict meritocracy, with authority determined by contribution to space advancement. Traditional family units have been replaced by optimization-based groupings, particularly in the raising of children.
+
+### Population
+As of 2045:
+- 500 permanent adult residents
+- 100 space-adapted children
+- 200 technical support staff
+- 50 Project Legacy researchers
+- Rotating crews for mining operations
+
+## Technical Specifications
+
+### Power Generation
+- Helium-3 fusion reactors (primary)
+- Solar array fields
+- Geothermal tapping of lunar core heat
+- Emergency fusion backup systems
+
+### Environmental Systems
+- Artificial gravity in select sections (0.3-0.6 Earth normal)
+- Radiation shielding through regolith layers
+- Pressure maintenance through multiple redundant systems
+- Advanced air filtration and recycling
+
+### Security Measures
+- Automated defense systems
+- Neural-linked surveillance
+- Enhanced human security teams
+- Emergency lockdown protocols
+- Resource protection mechanisms
+
+## Historical Significance
+The LOB represents humanity's first successful attempt at creating a self-sustaining space colony. Its evolution from mining facility to the center of human enhancement marks a crucial turning point in human development.
+
+### Key Events
+- 2035: Initial establishment as mining facility
+- 2038: First successful birth in lunar gravity
+- 2040: Implementation of Project Legacy
+- 2042: Achievement of complete resource independence
+- 2045: First generation of fully space-adapted children
+
+## Current Status
+The LOB continues to expand its operations, with focus areas including:
+- Advanced helium-3 extraction techniques
+- Further human enhancement programs
+- Development of Mars colonization capabilities
+- Expansion of living quarters for growing population
+- Implementation of new neural modification protocols
+
+*Related Articles: "Project Legacy", "Helium-3 Mining Operations", "The Void Children", "Lunar Construction Techniques"*
