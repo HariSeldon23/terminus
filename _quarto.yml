@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: _site
+  output-dir: docs
   preview:
     port: 4200
     browser: false
@@ -8,7 +8,7 @@ project:
 website:
   title: "Terminus"
   description: "An adaptive science fiction universe that evolves with real-world space developments"
-  site-url: https://terminus-universe.com
+  site-url: https://hariseldon23.github.io/terminus
   repo-url: https://github.com/HariSeldon23/terminus
   repo-actions: [edit, issue]
   
