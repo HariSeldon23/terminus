@@ -1,0 +1,137 @@
+---
+title: "Creating in Terminus: A Guide for Contributors"
+description: "Essential information for creators contributing to the Terminus universe"
+author: "Terminus Project"
+date: last-modified
+---
+
+# Creating in Terminus
+
+Welcome to the creative heart of Terminus. This guide will help you understand how to contribute to our open source universe while maintaining its cohesive vision and adaptable structure. Whether you're a writer, artist, game developer, or world-building enthusiast, you'll find the essential information needed to start creating in our universe.
+
+## Understanding Our Narrative Structure
+
+The Terminus universe employs a unique branching timeline structure that allows it to evolve alongside real-world space developments. This approach requires creators to understand several key concepts that shape how stories and content are developed.
+
+### Working with Timeline Branches
+
+When you create in Terminus, you're not just writing a single future—you're exploring one possible path among many. Each story branch emerges from specific anchor points, usually triggered by significant real-world events in space development. Your work should be positioned within this structure in one of three ways:
+
+First, you can create content within an existing branch, building upon established events and developments while maintaining consistency with that timeline's assumptions and consequences. This approach allows you to explore the implications of specific developments while working within a defined framework.
+
+Second, you can propose a new branch stemming from an anchor point, typically in response to real-world developments. This requires careful documentation of your branch's divergence point and the real-world events that inspired it. New branches should demonstrate clear cause-and-effect relationships between current events and future developments.
+
+Third, you can contribute to our core universe elements—the fundamental aspects of our world that remain consistent across all branches. These might include basic technological principles, key historical events prior to branch points, or essential character backgrounds.
+
+### Character Development in a Quantum Universe
+
+In Terminus, character fates exist in a state of quantum uncertainty, their futures determined by real-world events and their positions within specific timeline branches. This creates unique challenges and opportunities for character development:
+
+When working with established characters, you must maintain consistency with their core personality traits and history up to your chosen branch point. After that point, you can explore how these characters might react to different circumstances while ensuring their responses remain psychologically consistent.
+
+If you're creating new characters, consider how they fit into the broader universe. Their personal histories should reflect and illuminate the larger social and technological changes occurring in their timeline. Their struggles and triumphs should help readers understand the human implications of humanity's expansion into space.
+
+## Technical Foundations
+
+### Scientific Accuracy and Speculation
+
+Terminus balances scientific rigor with creative exploration. When developing technical content, follow these principles:
+
+Near-future technology (within 20 years of present day) should be grounded in current scientific understanding and technological trajectories. Speculative elements should represent plausible developments of existing technologies rather than revolutionary breakthroughs.
+
+Mid-future developments (20-50 years) can introduce more speculative elements but should maintain consistency with basic physical laws and include realistic limitations and drawbacks. Focus on exploring the social and personal implications of technological change rather than the minute details of how technologies work.
+
+Far-future speculation (beyond 50 years) allows for more creative freedom but should still maintain internal consistency and consider the broader implications of technological developments on human society and culture.
+
+### World-Building Resources
+
+The Terminus project provides several resources to help maintain consistency across contributions:
+
+Our technical database includes detailed specifications for common technologies, from spacecraft designs to habitat systems. Use these as a foundation for your work while feeling free to explore variations and developments within your chosen timeline branch.
+
+The social and political framework documents outline how different Earth-based power structures evolve as humanity expands into space. This helps ensure that stories reflect realistic institutional dynamics and conflicts.
+
+Environmental guidelines describe the challenges and opportunities of different space environments, from lunar dust management to radiation protection. These should inform how your characters interact with their environment.
+
+## Creating Different Types of Content
+
+### Narrative Fiction
+
+When writing stories in the Terminus universe, consider these guidelines:
+
+Focus on human experiences and relationships while using the science fiction elements as a backdrop that informs and shapes these interactions. Show how technological and social changes affect individual lives and communities.
+
+Use multiple viewpoints to explore different aspects of space development. Consider how various social and economic backgrounds might influence characters' perspectives on humanity's expansion into space.
+
+Integrate real-world developments naturally into your narratives, showing their ripple effects through personal stories rather than dry exposition.
+
+### Technical Documentation
+
+Contributors creating technical documentation should:
+
+Provide clear, accessible explanations that help readers understand both how technologies work and their broader implications for human society.
+
+Include relevant calculations and scientific principles while maintaining readability for a general audience. Use analogies and examples to make complex concepts more approachable.
+
+Consider how technologies might evolve differently across timeline branches while maintaining consistency with basic physical laws.
+
+### Visual Arts and Design
+
+Artists contributing to Terminus should:
+
+Balance artistic expression with technical plausibility, especially for near-future designs. Your work helps readers visualize possible futures while maintaining scientific credibility.
+
+Consider how different timeline branches might influence aesthetic and design choices while maintaining consistency with core technological principles.
+
+Document your design choices and their relationship to specific timeline branches or technological developments.
+
+## Contributing to the Community
+
+### Collaboration Guidelines
+
+Terminus thrives on collaboration between creators. When working with others:
+
+Respect existing canon while feeling free to build upon and expand it in new directions. The branching timeline structure allows for multiple interpretations and possibilities.
+
+Document your contributions clearly, including their position within the timeline structure and their relationships to other works.
+
+Engage with other creators through our community platforms, sharing ideas and providing constructive feedback.
+
+### Documentation Requirements
+
+All contributions should include:
+
+Clear identification of their timeline branch and anchor points
+Documentation of any new technologies or social developments introduced
+Explanation of how real-world events influenced the work
+Cross-references to related materials within the universe
+
+### Legal and Licensing
+
+All contributions to Terminus must be licensed under our open source license, allowing others to build upon and adapt your work while maintaining attribution. Review our licensing documentation to understand your rights and responsibilities as a contributor.
+
+## Getting Started
+
+### First Steps
+
+Begin by familiarizing yourself with existing content in your area of interest. Read through relevant timeline branches and technical documentation.
+
+Choose your initial focus: Will you contribute to an existing branch, propose a new one, or develop core universe elements?
+
+Join our community platforms to connect with other creators and share your ideas.
+
+### Support Resources
+
+Visit our Discord server to connect with other creators and get feedback on your ideas.
+
+Review our technical documentation database for detailed specifications and guidelines.
+
+Explore our timeline visualization tools to understand where your contribution fits in the broader universe.
+
+## Future Developments
+
+As real-world space development continues and new creators join our community, Terminus will evolve and expand. Your contributions help shape this evolution, creating a living document of humanity's journey to the stars.
+
+Remember that every contribution, whether a short story or a technical specification, adds to our shared understanding of possible futures. Through this collaborative effort, we create a unique lens for examining humanity's greatest adventure.
+
+*Next: Explore our [Technical Specifications](../tech/specs.qmd) or join our [Community Forums](../community/forums.qmd)*

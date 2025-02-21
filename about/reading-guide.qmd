@@ -19,7 +19,7 @@ Think of reading Terminus as exploring a vast tree of possibilities. Each branch
 
 If you're new to Terminus, we recommend beginning with our core universe elements. These foundational pieces remain consistent across all timeline branches and will help you understand the basic framework of our world:
 
-1. Start with "The Major Societies" to understand the fundamental split between the Ascendant and Grounded philosophies.
+1. Start with "The Major Societies".
 
 2. Read about the Lunar Operations Base to grasp how humanity's first permanent space settlement shapes our future.
 
@@ -88,4 +88,3 @@ There is no "wrong" way to read Terminus. Whether you prefer to follow a single 
 
 The goal isn't to predict the future, but to understand how our present choices shape the paths available to us. As you explore these branching timelines, you're not just reading different versions of a story – you're witnessing how our collective vision of the future evolves as reality unfolds.
 
-*Next Steps: Visit our [Branch Directory](branches/index.qmd) to start exploring specific timeline branches, or return to [Understanding Timeline Branches](about/timeline-structure.qmd) for a deeper look at how our narrative structure works.*

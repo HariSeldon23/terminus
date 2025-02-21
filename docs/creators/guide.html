@@ -6,8 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Terminus Project">
+<meta name="dcterms.date" content="2025-02-21">
+<meta name="description" content="Essential information for creators contributing to the Terminus universe">
 
-<title>guide – Terminus</title>
+<title>Creating in Terminus: A Guide for Contributors – Terminus</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +33,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
+<link href="../creators/storytelling.html" rel="next">
+<link href="../stories/third.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -81,9 +86,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">
-      Terminus
-      </li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../creators/guide.html">Contributing</a></li><li class="breadcrumb-item"><a href="../creators/guide.html">Creating in Terminus</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -127,24 +130,12 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Home</span></a>
   </div>
 </li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../about/timeline-structure.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Understanding Timeline Branches</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../about/reading-guide.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">How to Read Terminus</span></a>
-  </div>
-</li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
- <span class="menu-text">Core Universe</span></a>
+ <span class="menu-text">Timeline</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -152,7 +143,24 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../core/anchor-points.html" class="sidebar-item-text sidebar-link">
+  <a href="../timeline/main.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Current Timeline</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true">
+ <span class="menu-text">Core Universe</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../core/anchor-points.qmd" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Anchor Points Index</span></a>
   </div>
 </li>
@@ -190,99 +198,30 @@ ul.task-list li input[type="checkbox"] {
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true">
- <span class="menu-text">Timeline Branches</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../branches/index.qmd" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Current Branches</span></a>
-  </div>
-</li>
-          <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="false">
- <span class="menu-text">Primary Timeline</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="false" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth2 ">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../branches/main/2045.qmd" class="sidebar-item-text sidebar-link">
- <span class="menu-text">2045: First Divergence</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-          <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="false">
- <span class="menu-text">Active Branches</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="false" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth2 ">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../branches/artemis/success.qmd" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Artemis Success</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../branches/artemis/failure.qmd" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Artemis Failure</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" role="navigation" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true">
  <span class="menu-text">Characters</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" role="navigation" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-6" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../characters/index.qmd" class="sidebar-item-text sidebar-link">
+  <a href="../characters/index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Character Directory</span></a>
   </div>
 </li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../characters/ascendant/index.qmd" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Ascendant Characters</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../characters/grounded/index.qmd" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Grounded Characters</span></a>
-  </div>
-</li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-7" role="navigation" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="true">
  <span class="menu-text">Stories</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-7" role="navigation" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-7" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../stories/first.html" class="sidebar-item-text sidebar-link">
@@ -303,22 +242,222 @@ ul.task-list li input[type="checkbox"] {
 </li>
       </ul>
   </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" role="navigation" aria-expanded="true">
+ <span class="menu-text">Contributing</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-6" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../creators/guide.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Creating in Terminus</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../creators/storytelling.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Storytelling</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../creators/style-guide.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Style Guide</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
     </ul>
     </div>
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#creating-in-terminus" id="toc-creating-in-terminus" class="nav-link active" data-scroll-target="#creating-in-terminus">Creating in Terminus</a>
+  <ul class="collapse">
+  <li><a href="#understanding-our-narrative-structure" id="toc-understanding-our-narrative-structure" class="nav-link" data-scroll-target="#understanding-our-narrative-structure">Understanding Our Narrative Structure</a>
+  <ul class="collapse">
+  <li><a href="#working-with-timeline-branches" id="toc-working-with-timeline-branches" class="nav-link" data-scroll-target="#working-with-timeline-branches">Working with Timeline Branches</a></li>
+  <li><a href="#character-development-in-a-quantum-universe" id="toc-character-development-in-a-quantum-universe" class="nav-link" data-scroll-target="#character-development-in-a-quantum-universe">Character Development in a Quantum Universe</a></li>
+  </ul></li>
+  <li><a href="#technical-foundations" id="toc-technical-foundations" class="nav-link" data-scroll-target="#technical-foundations">Technical Foundations</a>
+  <ul class="collapse">
+  <li><a href="#scientific-accuracy-and-speculation" id="toc-scientific-accuracy-and-speculation" class="nav-link" data-scroll-target="#scientific-accuracy-and-speculation">Scientific Accuracy and Speculation</a></li>
+  <li><a href="#world-building-resources" id="toc-world-building-resources" class="nav-link" data-scroll-target="#world-building-resources">World-Building Resources</a></li>
+  </ul></li>
+  <li><a href="#creating-different-types-of-content" id="toc-creating-different-types-of-content" class="nav-link" data-scroll-target="#creating-different-types-of-content">Creating Different Types of Content</a>
+  <ul class="collapse">
+  <li><a href="#narrative-fiction" id="toc-narrative-fiction" class="nav-link" data-scroll-target="#narrative-fiction">Narrative Fiction</a></li>
+  <li><a href="#technical-documentation" id="toc-technical-documentation" class="nav-link" data-scroll-target="#technical-documentation">Technical Documentation</a></li>
+  <li><a href="#visual-arts-and-design" id="toc-visual-arts-and-design" class="nav-link" data-scroll-target="#visual-arts-and-design">Visual Arts and Design</a></li>
+  </ul></li>
+  <li><a href="#contributing-to-the-community" id="toc-contributing-to-the-community" class="nav-link" data-scroll-target="#contributing-to-the-community">Contributing to the Community</a>
+  <ul class="collapse">
+  <li><a href="#collaboration-guidelines" id="toc-collaboration-guidelines" class="nav-link" data-scroll-target="#collaboration-guidelines">Collaboration Guidelines</a></li>
+  <li><a href="#documentation-requirements" id="toc-documentation-requirements" class="nav-link" data-scroll-target="#documentation-requirements">Documentation Requirements</a></li>
+  <li><a href="#legal-and-licensing" id="toc-legal-and-licensing" class="nav-link" data-scroll-target="#legal-and-licensing">Legal and Licensing</a></li>
+  </ul></li>
+  <li><a href="#getting-started" id="toc-getting-started" class="nav-link" data-scroll-target="#getting-started">Getting Started</a>
+  <ul class="collapse">
+  <li><a href="#first-steps" id="toc-first-steps" class="nav-link" data-scroll-target="#first-steps">First Steps</a></li>
+  <li><a href="#support-resources" id="toc-support-resources" class="nav-link" data-scroll-target="#support-resources">Support Resources</a></li>
+  </ul></li>
+  <li><a href="#future-developments" id="toc-future-developments" class="nav-link" data-scroll-target="#future-developments">Future Developments</a></li>
+  </ul></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/HariSeldon23/terminus/edit/main/creators/guide.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/HariSeldon23/terminus/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../creators/guide.html">Contributing</a></li><li class="breadcrumb-item"><a href="../creators/guide.html">Creating in Terminus</a></li></ol></nav>
+<div class="quarto-title">
+<h1 class="title">Creating in Terminus: A Guide for Contributors</h1>
+</div>
+
+<div>
+  <div class="description">
+    Essential information for creators contributing to the Terminus universe
+  </div>
+</div>
 
 
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Terminus Project </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">February 21, 2025</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
 
 
+</header>
 
 
+<section id="creating-in-terminus" class="level1">
+<h1>Creating in Terminus</h1>
+<p>Welcome to the creative heart of Terminus. This guide will help you understand how to contribute to our open source universe while maintaining its cohesive vision and adaptable structure. Whether you’re a writer, artist, game developer, or world-building enthusiast, you’ll find the essential information needed to start creating in our universe.</p>
+<section id="understanding-our-narrative-structure" class="level2">
+<h2 class="anchored" data-anchor-id="understanding-our-narrative-structure">Understanding Our Narrative Structure</h2>
+<p>The Terminus universe employs a unique branching timeline structure that allows it to evolve alongside real-world space developments. This approach requires creators to understand several key concepts that shape how stories and content are developed.</p>
+<section id="working-with-timeline-branches" class="level3">
+<h3 class="anchored" data-anchor-id="working-with-timeline-branches">Working with Timeline Branches</h3>
+<p>When you create in Terminus, you’re not just writing a single future—you’re exploring one possible path among many. Each story branch emerges from specific anchor points, usually triggered by significant real-world events in space development. Your work should be positioned within this structure in one of three ways:</p>
+<p>First, you can create content within an existing branch, building upon established events and developments while maintaining consistency with that timeline’s assumptions and consequences. This approach allows you to explore the implications of specific developments while working within a defined framework.</p>
+<p>Second, you can propose a new branch stemming from an anchor point, typically in response to real-world developments. This requires careful documentation of your branch’s divergence point and the real-world events that inspired it. New branches should demonstrate clear cause-and-effect relationships between current events and future developments.</p>
+<p>Third, you can contribute to our core universe elements—the fundamental aspects of our world that remain consistent across all branches. These might include basic technological principles, key historical events prior to branch points, or essential character backgrounds.</p>
+</section>
+<section id="character-development-in-a-quantum-universe" class="level3">
+<h3 class="anchored" data-anchor-id="character-development-in-a-quantum-universe">Character Development in a Quantum Universe</h3>
+<p>In Terminus, character fates exist in a state of quantum uncertainty, their futures determined by real-world events and their positions within specific timeline branches. This creates unique challenges and opportunities for character development:</p>
+<p>When working with established characters, you must maintain consistency with their core personality traits and history up to your chosen branch point. After that point, you can explore how these characters might react to different circumstances while ensuring their responses remain psychologically consistent.</p>
+<p>If you’re creating new characters, consider how they fit into the broader universe. Their personal histories should reflect and illuminate the larger social and technological changes occurring in their timeline. Their struggles and triumphs should help readers understand the human implications of humanity’s expansion into space.</p>
+</section>
+</section>
+<section id="technical-foundations" class="level2">
+<h2 class="anchored" data-anchor-id="technical-foundations">Technical Foundations</h2>
+<section id="scientific-accuracy-and-speculation" class="level3">
+<h3 class="anchored" data-anchor-id="scientific-accuracy-and-speculation">Scientific Accuracy and Speculation</h3>
+<p>Terminus balances scientific rigor with creative exploration. When developing technical content, follow these principles:</p>
+<p>Near-future technology (within 20 years of present day) should be grounded in current scientific understanding and technological trajectories. Speculative elements should represent plausible developments of existing technologies rather than revolutionary breakthroughs.</p>
+<p>Mid-future developments (20-50 years) can introduce more speculative elements but should maintain consistency with basic physical laws and include realistic limitations and drawbacks. Focus on exploring the social and personal implications of technological change rather than the minute details of how technologies work.</p>
+<p>Far-future speculation (beyond 50 years) allows for more creative freedom but should still maintain internal consistency and consider the broader implications of technological developments on human society and culture.</p>
+</section>
+<section id="world-building-resources" class="level3">
+<h3 class="anchored" data-anchor-id="world-building-resources">World-Building Resources</h3>
+<p>The Terminus project provides several resources to help maintain consistency across contributions:</p>
+<p>Our technical database includes detailed specifications for common technologies, from spacecraft designs to habitat systems. Use these as a foundation for your work while feeling free to explore variations and developments within your chosen timeline branch.</p>
+<p>The social and political framework documents outline how different Earth-based power structures evolve as humanity expands into space. This helps ensure that stories reflect realistic institutional dynamics and conflicts.</p>
+<p>Environmental guidelines describe the challenges and opportunities of different space environments, from lunar dust management to radiation protection. These should inform how your characters interact with their environment.</p>
+</section>
+</section>
+<section id="creating-different-types-of-content" class="level2">
+<h2 class="anchored" data-anchor-id="creating-different-types-of-content">Creating Different Types of Content</h2>
+<section id="narrative-fiction" class="level3">
+<h3 class="anchored" data-anchor-id="narrative-fiction">Narrative Fiction</h3>
+<p>When writing stories in the Terminus universe, consider these guidelines:</p>
+<p>Focus on human experiences and relationships while using the science fiction elements as a backdrop that informs and shapes these interactions. Show how technological and social changes affect individual lives and communities.</p>
+<p>Use multiple viewpoints to explore different aspects of space development. Consider how various social and economic backgrounds might influence characters’ perspectives on humanity’s expansion into space.</p>
+<p>Integrate real-world developments naturally into your narratives, showing their ripple effects through personal stories rather than dry exposition.</p>
+</section>
+<section id="technical-documentation" class="level3">
+<h3 class="anchored" data-anchor-id="technical-documentation">Technical Documentation</h3>
+<p>Contributors creating technical documentation should:</p>
+<p>Provide clear, accessible explanations that help readers understand both how technologies work and their broader implications for human society.</p>
+<p>Include relevant calculations and scientific principles while maintaining readability for a general audience. Use analogies and examples to make complex concepts more approachable.</p>
+<p>Consider how technologies might evolve differently across timeline branches while maintaining consistency with basic physical laws.</p>
+</section>
+<section id="visual-arts-and-design" class="level3">
+<h3 class="anchored" data-anchor-id="visual-arts-and-design">Visual Arts and Design</h3>
+<p>Artists contributing to Terminus should:</p>
+<p>Balance artistic expression with technical plausibility, especially for near-future designs. Your work helps readers visualize possible futures while maintaining scientific credibility.</p>
+<p>Consider how different timeline branches might influence aesthetic and design choices while maintaining consistency with core technological principles.</p>
+<p>Document your design choices and their relationship to specific timeline branches or technological developments.</p>
+</section>
+</section>
+<section id="contributing-to-the-community" class="level2">
+<h2 class="anchored" data-anchor-id="contributing-to-the-community">Contributing to the Community</h2>
+<section id="collaboration-guidelines" class="level3">
+<h3 class="anchored" data-anchor-id="collaboration-guidelines">Collaboration Guidelines</h3>
+<p>Terminus thrives on collaboration between creators. When working with others:</p>
+<p>Respect existing canon while feeling free to build upon and expand it in new directions. The branching timeline structure allows for multiple interpretations and possibilities.</p>
+<p>Document your contributions clearly, including their position within the timeline structure and their relationships to other works.</p>
+<p>Engage with other creators through our community platforms, sharing ideas and providing constructive feedback.</p>
+</section>
+<section id="documentation-requirements" class="level3">
+<h3 class="anchored" data-anchor-id="documentation-requirements">Documentation Requirements</h3>
+<p>All contributions should include:</p>
+<p>Clear identification of their timeline branch and anchor points Documentation of any new technologies or social developments introduced Explanation of how real-world events influenced the work Cross-references to related materials within the universe</p>
+</section>
+<section id="legal-and-licensing" class="level3">
+<h3 class="anchored" data-anchor-id="legal-and-licensing">Legal and Licensing</h3>
+<p>All contributions to Terminus must be licensed under our open source license, allowing others to build upon and adapt your work while maintaining attribution. Review our licensing documentation to understand your rights and responsibilities as a contributor.</p>
+</section>
+</section>
+<section id="getting-started" class="level2">
+<h2 class="anchored" data-anchor-id="getting-started">Getting Started</h2>
+<section id="first-steps" class="level3">
+<h3 class="anchored" data-anchor-id="first-steps">First Steps</h3>
+<p>Begin by familiarizing yourself with existing content in your area of interest. Read through relevant timeline branches and technical documentation.</p>
+<p>Choose your initial focus: Will you contribute to an existing branch, propose a new one, or develop core universe elements?</p>
+<p>Join our community platforms to connect with other creators and share your ideas.</p>
+</section>
+<section id="support-resources" class="level3">
+<h3 class="anchored" data-anchor-id="support-resources">Support Resources</h3>
+<p>Visit our Discord server to connect with other creators and get feedback on your ideas.</p>
+<p>Review our technical documentation database for detailed specifications and guidelines.</p>
+<p>Explore our timeline visualization tools to understand where your contribution fits in the broader universe.</p>
+</section>
+</section>
+<section id="future-developments" class="level2">
+<h2 class="anchored" data-anchor-id="future-developments">Future Developments</h2>
+<p>As real-world space development continues and new creators join our community, Terminus will evolve and expand. Your contributions help shape this evolution, creating a living document of humanity’s journey to the stars.</p>
+<p>Remember that every contribution, whether a short story or a technical specification, adds to our shared understanding of possible futures. Through this collaborative effort, we create a unique lens for examining humanity’s greatest adventure.</p>
+<p><em>Next: Explore our <a href="../tech/specs.qmd">Technical Specifications</a> or join our <a href="../community/forums.qmd">Community Forums</a></em></p>
+
+
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -882,6 +1021,18 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="../stories/third.html" class="pagination-link" aria-label="Third">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Third</span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="../creators/storytelling.html" class="pagination-link" aria-label="Storytelling">
+        <span class="nav-page-text">Storytelling</span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
@@ -890,7 +1041,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions"><ul><li><a href="https://github.com/HariSeldon23/terminus/edit/main/creators/guide.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/HariSeldon23/terminus/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/HariSeldon23/terminus/edit/main/creators/guide.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/HariSeldon23/terminus/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">

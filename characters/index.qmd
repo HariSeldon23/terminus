@@ -1,0 +1,120 @@
+---
+title: "Key Characters: Shapers of Humanity's Space Future"
+description: "The central figures driving space development in the 2024-2030 period"
+author: "Terminus Project"
+date: last-modified
+---
+
+# Key Characters: Shapers of Humanity's Space Future
+
+The early period of space commercialization brings together a complex web of political leaders, industrial titans, and those caught between competing interests. These characters shape humanity's crucial first steps toward true space development, their personal ambitions and conflicts driving decisions that will echo through generations.
+
+## Political Figures
+
+### Donald Trump (2024-2028)
+Position: 47th President of the United States (Second Term)
+
+After regaining the presidency in 2024, Trump's second term marks a dramatic shift in space policy, characterized by aggressive support for commercial space operations and decreased international cooperation. His close relationship with commercial space leaders, particularly Elon Musk, creates a new power dynamic in space development.
+
+Key Characteristics:
+- Strongly favors American commercial space interests over international cooperation
+- Views space primarily through lens of American economic dominance
+- Skeptical of traditional space treaties and international obligations
+- Uses social media to directly influence space policy debates
+- Maintains personal relationships with key commercial space leaders
+
+Significant Actions:
+- Executive orders limiting enforcement of international space treaties
+- Support for commercial claims to space resources
+- Reduced NASA oversight of commercial operators
+- Accelerated military space force development
+- Resistance to international debris mitigation agreements
+
+## Industry Leaders
+
+### Elon Musk
+Position: CEO of SpaceX, Starlink Controller
+
+As SpaceX's dominance in launch services combines with Starlink's growing orbital presence, Musk emerges as a de facto space policy maker. His close relationship with the Trump administration gives him unprecedented influence over space development.
+
+Key Characteristics:
+- Combines technical knowledge with political influence
+- Prioritizes rapid development over safety concerns
+- Views international space law as outdated
+- Uses social media to shape public opinion
+- Maintains complex relationship with government oversight
+
+Significant Actions:
+- Aggressive expansion of Starlink constellation
+- Resistance to international debris regulations
+- Development of Mars transport architecture
+- Influence over space policy through political connections
+- Public criticism of traditional space governance
+
+## Space Operations
+
+### Dr. Maya Patel
+Position: International Space Station Resource Manager, later Orbital Control Authority founding member
+
+A career space station operator who becomes a key figure in managing the growing crisis of orbital debris and resource competition. Her position gives her unique insight into the developing tragedy of the commons in orbital space.
+
+Key Characteristics:
+- Deep technical knowledge of orbital operations
+- Extensive international space station experience
+- Understanding of both official and unofficial space economy
+- Network of contacts throughout space programs
+- Pragmatic approach to solving space challenges
+
+Professional History:
+- Ten years as ISS systems engineer
+- Lead coordinator for international resupply missions
+- Experience with multiple space agencies
+- Expertise in resource allocation and conservation
+- First-hand knowledge of growing orbital debris crisis
+
+Current Role:
+- Manages critical resource allocation
+- Coordinates between competing interests
+- Navigates political pressures
+- Handles emergency situations
+- Deals with unofficial supply networks
+
+Significant Actions:
+- Documentation of near-miss incidents
+- Development of resource conservation protocols
+- Creation of unofficial operator networks
+- Advocacy for stronger debris controls
+- Key role in early orbital regulation
+
+## Support Characters
+
+### Senator Claire Harrison
+Position: Chair, Senate Committee on Commerce, Science, and Transportation
+
+A key legislative figure whose committee oversight of commercial space activities puts her at the center of growing conflicts between commercial interests and public safety.
+
+### Li Wei
+Position: Chinese Space Station Commander
+
+His command of China's space station makes him a crucial figure in growing tensions over orbital territory and resource rights.
+
+### Dr. James Morrison
+Position: Chief Insurance Actuary, Orbital Operations Group
+
+His calculations of growing risk in orbital operations help drive the formation of the Orbital Control Authority.
+
+## Character Dynamics
+
+The interactions between these characters drive the early narrative of space development:
+
+Trump's support empowers Musk's aggressive expansion, while Dr. Patel witnesses the growing crisis this creates in orbital operations. Senator Harrison's attempts at oversight clash with presidential authority, while Commander Li represents growing international tensions.
+
+Their conflicting interests come to a head during the Orbital Crisis, when a series of incidents forces a fundamental reconsideration of how humanity manages its growing presence in space.
+
+## Timeline Influence
+
+These characters' actions and decisions create the foundation for later developments in space exploration and colonization. Their handling of early challenges in orbital space management sets precedents that will affect humanity's expansion throughout the solar system.
+
+Their legacy shapes both the physical reality of orbital infrastructure and the legal/political frameworks that govern humanity's reach for the stars.
+
+*Next: Explore how these characters interact in [The Cascade](events/cascade.qmd) and [The Formation of the OCA](events/oca-formation.qmd).*

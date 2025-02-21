@@ -25,11 +25,10 @@ website:
         contents:
           - href: index.qmd
             text: "Home"
-          - href: about/timeline-structure.qmd
-            text: "Understanding Timeline Branches"
-          - href: about/reading-guide.qmd
-            text: "How to Read Terminus"
-          
+      - section: "Timeline"
+        contents:
+          - href: timeline/main.qmd
+            text: "Current Timeline"
       - section: "Core Universe"
         contents:
           - href: core/anchor-points.qmd
@@ -44,30 +43,11 @@ website:
             text: "Technology"
           - href: core/locations/moon-base.qmd
             text: "Lunar Operations Base"
-            
-      - section: "Timeline Branches"
-        contents:
-          - href: branches/index.qmd
-            text: "Current Branches"
-          - section: "Primary Timeline"
-            contents:
-              - href: branches/main/2045.qmd
-                text: "2045: First Divergence"
-          - section: "Active Branches"
-            contents:
-              - href: branches/artemis/success.qmd
-                text: "Artemis Success"
-              - href: branches/artemis/failure.qmd
-                text: "Artemis Failure"
                 
       - section: "Characters"
         contents:
           - href: characters/index.qmd
             text: "Character Directory"
-          - href: characters/ascendant/index.qmd
-            text: "Ascendant Characters"
-          - href: characters/grounded/index.qmd
-            text: "Grounded Characters"
       
       - section: "Stories"
         contents:
@@ -77,6 +57,14 @@ website:
             text: "Second"
           - href: stories/third.qmd
             text: "Third"
+      - section: "Contributing"
+        contents:
+          - href: creators/guide.qmd
+            text: "Creating in Terminus"
+          - href: creators/storytelling.qmd
+            text: "Storytelling"
+          - href: creators/style-guide.qmd
+            text: "Style Guide"
 
   page-footer:
     left: "Copyright 2025 Terminus Universe"
