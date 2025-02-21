@@ -36,8 +36,12 @@ website:
             text: "Anchor Points Index"
           - href: core/societies.qmd
             text: "The Major Societies"
-          - href: core/technology/helium3.qmd
-            text: "Helium-3 Technology"
+          - href: core/law.qmd
+            text: "Space Law and Regulation"
+          - href: core/stations.qmd
+            text: "Space Stations"
+          - href: core/technology/technology.qmd
+            text: "Technology"
           - href: core/locations/moon-base.qmd
             text: "Lunar Operations Base"
             
@@ -69,6 +73,10 @@ website:
         contents:
           - href: stories/first.qmd
             text: "Into the Void"
+          - href: stories/second.qmd
+            text: "Second"
+          - href: stories/third.qmd
+            text: "Third"
 
   page-footer:
     left: "Copyright 2025 Terminus Universe"

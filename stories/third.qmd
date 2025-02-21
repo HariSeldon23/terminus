@@ -1,0 +1,43 @@
+## The Tianhe Incident
+
+The first warning came seventy-two hours before impact. A standard conjunction alert from the 18th Space Defense Squadron, the kind that crossed Major Sarah Chen's desk dozens of times each week at the Tiangong Mission Control. But this one made her pause.
+
+The predicted conjunction wasn't with debris or a defunct satellite. It was with an active Starlink unit, directly in the path of their automated resupply vessel carrying crucial life support components to Tiangong station.
+
+"American satellite can easily adjust orbit," her superior noted after reviewing the alert. "Their system is automated. Send the standard request."
+
+Chen drafted the communication, routing it through both military and civilian channels as protocol required. The response came back within hours: Request denied. Automated system registers trajectory as optimal for constellation maintenance.
+
+"They want us to alter our course," Chen reported. "But any significant deviation would leave us without enough fuel margin for docking."
+
+The next forty-eight hours became a lesson in the gaps between law and reality. Chen watched as the diplomatic channels activated, moving with glacial bureaucratic pace while the laws of orbital mechanics remained indifferent to human procedures.
+
+The Chinese embassy in Washington formally invoked Article IX of the Outer Space Treaty, requiring consultation between parties when space activities might harmfully interfere with each other. The State Department acknowledged receipt. The clock kept ticking.
+
+SpaceX's official response cited autonomous system priorities and constellation integrity requirements. Behind the scenes, leaked messages suggested pressure from the top to "maintain position." The President, still wielding considerable influence through his media empire and political allies, had apparently taken a personal interest in the situation.
+
+Twenty-four hours out, Chen watched her superiors wrestle with impossible choices. Altering course meant potentially losing the resupply mission, leaving Tiangong's crew with dangerously low oxygen recycling capacity. Maintaining course meant risking collision.
+
+"They believe we will blink first," her director said grimly. "That we will choose caution over necessity. They forget we have crew depending on these supplies."
+
+Twelve hours before impact, China formally notified all parties of intent to maintain course, citing crew safety requirements and invoking Article V of the Outer Space Treaty regarding astronaut safety. They also filed preliminary documentation under the Liability Convention, making clear their position that any collision would be the responsibility of the US and SpaceX.
+
+The President's social media response was immediate: "China trying to bully American business in space! Sad! Starlink holds position - no kowtowing!"
+
+Six hours out, Chen watched the distance steadily close on her tracking display. The US Space Force issued increasingly urgent warnings to both parties. The State Department suggested "emergency consultations." The EU offered to mediate. The laws of physics continued their countdown.
+
+The collision, when it came, was anticlimactic on her screens - just a sudden multiplication of tracking signatures as two objects became thousands. But Chen knew that in that moment, decades of space law had just collided with the new reality of private space power.
+
+China immediately filed under the Liability Convention, presenting extensive documentation of the incident's lead-up. But the political response in the US had already been shaped by a carefully crafted narrative about Chinese aggression and American commercial rights in space.
+
+The President's media network ran constant coverage questioning the validity of "outdated" space treaties and suggesting China had deliberately caused the collision to attack American commercial interests. His allies in Congress called for investigations into Chinese space activities rather than accountability under the Liability Convention.
+
+In the aftermath, Chen observed how a single orbital conjunction had exposed the fragility of international space law in the face of national politics and private power. The debris cloud from the collision would threaten other satellites for years, but the legal precedent might prove even more dangerous.
+
+As she filed her final report, Chen noted how the incident highlighted the gap between the idealistic treaties of the early space age and the complex reality of modern space operations. The laws written when space was the domain of government agencies were straining to handle a new era where private companies wielded power that rivaled nations.
+
+The Tianhe Incident, as it came to be known, marked a crucial moment in space law - not because of any new precedent set, but because it demonstrated how easily existing frameworks could be undermined by the combination of private power and national politics.
+
+In the months that followed, as diplomats argued over liability and compensation, the more crucial question went unaddressed: How could international law govern space when private entities had the power to ignore it, and national leaders had the political motivation to let them?
+
+The debris cloud continued to expand, a physical reminder of legal frameworks shattering against new realities. Each piece traced its own orbit, indifferent to treaties and politics, marking the paths of unintended consequences in humanity's growing presence beyond Earth.
